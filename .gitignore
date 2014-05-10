@@ -1,3 +1,10 @@
+# project files
+.cproject
+.project
+
+# Build files
+build/
+
 # NetBeans user-specific settings
 /bindings/java/nbproject/private/
 
